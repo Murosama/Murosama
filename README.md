@@ -13,7 +13,7 @@ I'm eager to collaborate with fellow developers and artists who share a passion 
 As I'm diving into this complex world of game development, I'm looking for assistance in **optimizing performance** and implementing **cutting-edge technologies** like ray tracing and DLSS. 🌟
 
 ## 🌱 **I’M CURRENTLY LEARNING**
-While working on my game, I'm also learning **C++** and **Unreal Engine 5.** It's a challenging yet rewarding experience, and I'm excited about all the possibilities! 📚🚀
+While working on my game, I'm also learning **Unreal Engine 5.** It's a challenging yet rewarding experience, and I'm excited about all the possibilities! 📚🚀
 
 ## 💬 **ASK ME ABOUT**
 Feel free to ask me about **game development, coding challenges,** or even just to chat about gaming! I'm always up for a good discussion! 🎉
