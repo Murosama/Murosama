@@ -21,7 +21,7 @@ Feel free to ask me about **game development, coding challenges,** or even just 
 ## ⚡ **FUN FACT**
 Did you know that creating a game can be as intricate as building a city? Every feature is a new block, and I'm learning to stack them together! The journey is tough but definitely achievable! 🏗️💪
 
-Thanks for stopping by! Let's create something amazing for joy! 🎊
+Thanks for stopping by! Let's create something amazing for fun! 🎊
 
 ---
 
