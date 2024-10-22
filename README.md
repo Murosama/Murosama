@@ -61,7 +61,6 @@ Thanks for stopping by! Let's create something amazing for joy! 🎊
 ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=flat&logo=ubiquiti&logoColor=white)
 
 ## 📊 **GitHub Stats:**
-![](https://github-readme-stats.vercel.app/api?username=Murosama&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Murosama&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Murosama&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
